@@ -1,3 +1,5 @@
+#Jeffrey Ni
+
 import tkinter as tk
 
 class ChessBoardGUI:
